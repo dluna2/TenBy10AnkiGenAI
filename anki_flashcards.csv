@@ -1,7 +1,3 @@
-Grammar/Vocab,Meaning,Example Sentence
-有効,válido,"このパスポートはまだ有効です。
-Este pasaporte todavía es válido."
-無効,inválido,"このクーポンはすでに無効になっています。
-Este cupón ya es inválido."
-微妙,sutil,"La diferencia entre ambos colores es muy sutil.
-La diferencia entre ambos colores es muy sutil."
+Grammar/Vocab,Translation,Example Sentence
+hello,hola,"Hello, how are you today? - Hola, ¿cómo estás hoy?"
+I am hungry,Tengo hambre,"I am hungry, so I will eat a sandwich. / Tengo hambre, así que voy a comer un sándwich."
